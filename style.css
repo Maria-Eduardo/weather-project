@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #ccc;
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -116,9 +116,15 @@ h1 {
     color: #FFF;
     padding-top: 20px;
 }
+a{
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+}
 
 footer {
     margin-top: 20px;
     color: #FFF;
-    font-size: 13px;
+    font-size: 15px;
+    font-weight: 600;
 }
